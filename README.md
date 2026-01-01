@@ -1,4 +1,5 @@
-# 🌌 Cosmic HNSW RAG Chatbot
+# 🌌 Advanced-RAG-Chatbot
+
 
 <div align="center">
 
